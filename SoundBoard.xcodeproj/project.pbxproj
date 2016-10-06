@@ -13,6 +13,7 @@
 		D0D5159B1DA4FE9D005D0364 /* SoundBoard.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D0D515991DA4FE9D005D0364 /* SoundBoard.xcdatamodeld */; };
 		D0D5159D1DA4FE9D005D0364 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0D5159C1DA4FE9D005D0364 /* Assets.xcassets */; };
 		D0D515A01DA4FE9D005D0364 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0D5159E1DA4FE9D005D0364 /* LaunchScreen.storyboard */; };
+		D0D515A81DA50126005D0364 /* RecordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0D515A71DA50126005D0364 /* RecordViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D0D5159C1DA4FE9D005D0364 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D0D5159F1DA4FE9D005D0364 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D0D515A11DA4FE9D005D0364 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D0D515A71DA50126005D0364 /* RecordViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RecordViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				D0D515921DA4FE9D005D0364 /* AppDelegate.swift */,
 				D0D515941DA4FE9D005D0364 /* ViewController.swift */,
 				D0D515961DA4FE9D005D0364 /* Main.storyboard */,
+				D0D515A71DA50126005D0364 /* RecordViewController.swift */,
 				D0D5159C1DA4FE9D005D0364 /* Assets.xcassets */,
 				D0D5159E1DA4FE9D005D0364 /* LaunchScreen.storyboard */,
 				D0D515A11DA4FE9D005D0364 /* Info.plist */,
@@ -143,6 +146,7 @@
 				D0D5159B1DA4FE9D005D0364 /* SoundBoard.xcdatamodeld in Sources */,
 				D0D515951DA4FE9D005D0364 /* ViewController.swift in Sources */,
 				D0D515931DA4FE9D005D0364 /* AppDelegate.swift in Sources */,
+				D0D515A81DA50126005D0364 /* RecordViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
